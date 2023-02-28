@@ -47,6 +47,7 @@ ordenar.addEventListener('change', (event) => {
     const filmsMejorPuntuadasReverse = ordenarPuntuacionMayor(ghibli.films).reverse()
     showTitleImage(filmsMejorPuntuadasReverse) // envias argumento 
   }
+  document.getElementById("numero-de-personajes").innerHTML = "";
 });
 const filtrar = document.querySelector('#filtrar');
 filtrar.addEventListener('change', (event) => {
@@ -79,6 +80,7 @@ filtrar.addEventListener('change', (event) => {
     document.getElementById("container").innerHTML = "";
     showTitleImage(ghibli.films);
   }
+  document.getElementById("numero-de-personajes").innerHTML = "";
 });
 
 // definir funcion 
@@ -90,10 +92,16 @@ filtrar.addEventListener('change', (event) => {
 //for tradicional recorre cada pelicula, nos permite acceder a un primer nivel de propiedades .film
 function showPersonajes (title) {
   const arrOriginal = ghibli.films;
+
   for (let i = 0; i < arrOriginal.length; i++){
     const film = arrOriginal[i];{
       // console.log(film.people) 
       if (film.title === title){
+        // const llamado = ('La pelicula '+ (values[0].title)+ 'tiene '+ (values[0].people))
+        // console.log(llamado)
+        const totalPersonajes = document.getElementById ("numero-de-personajes");
+        // pase esto para aca para poder acceer a todos los datos que requiero, osea el titulo y los personajes.
+        totalPersonajes.innerHTML = "En la pelicula "+ film.title + " existen " + film.people.length + " personajes";
         showPersonajes2(film.people);
       }
     }
@@ -101,7 +109,7 @@ function showPersonajes (title) {
 }
 
 
-
+//función que despliega todas las peliculas en el menú desplegable.
 // showSelect(ghibli.films) 
 const selector = (arrayGhibli) =>{
   const values = (arrayGhibli)
@@ -116,23 +124,33 @@ const selector = (arrayGhibli) =>{
     $option.value = values.title
     $option.innerHTML = values.title
     $select.appendChild($option)
+   
+    // console.log(values.title)
   })
 }
 selector(ghibli.films)
 
+//función que conecta el menú desplegable con el container que despliega las imagenes de los personajes.
 const $select = document.getElementById("personajes")
 $select.addEventListener('change',function(){
-  // console.log($select.value)
   document.getElementById("container").innerHTML = "";
   showPersonajes($select.value)
+  // con este inner borramos el parrafo de calculo y lo replico en la funcion de filtar y ordenar para que no salga 
+  if ($select.value === "") {
+    document.getElementById("container").innerHTML = "";
+    // con este inner borramos el parrafo de calculo y lo replico en la funcion de filtar y ordenar para que no salga 
+    document.getElementById("numero-de-personajes").innerHTML = "";
+    showTitleImage(ghibli.films);
+  }
 });
 
 
-// / funcion peronajes
+// / función que despliega personajes de la data en container. 
 const showPersonajes2 = (personajes) => { // la fn recibe arreglo como parametro
   const principal = document.getElementById('container');
-  // const numeroDePersonajes = document.getElementById('numero-de-personajes');
-  console.log(personajes)
+  // const totalPersonajes = document.getElementById ("numero-de-personajes");
+  // totalPersonajes.innerHTML = "Esta película tiene un total de" + " " + personajes.length + " "+ "personajes";
+  console.log(personajes.length) 
   if (principal) {
     for (let i = 0; i < personajes.length; i++) {
       const divColumna = document.createElement('div');
