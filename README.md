@@ -14,17 +14,15 @@
 
 ***
 
-## 1. Preámbulo
+## 1. Preámbulo Studio Ghibli
 
-Según [Forbes](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read),
-el 90% de la data que existe hoy ha sido creada durante los últimos dos años.
-Cada día generamos 2.5 millones de terabytes de datos, una cifra sin
-precedentes.
+Studio Ghibli es un estudio de animación japonés, conocido por sus largometrajes
+animados como **Mi vecino Totoro**, **El viaje de Chihiro** o
+**El castillo ambulante**, entre otros grandes éxitos.
 
-No obstante, los datos por sí mismos son de poca utilidad. Para que esas
-grandes cantidades de datos se conviertan en **información** fácil de leer para
-los usuarios, necesitamos entender y procesar estos datos. Una manera simple de
-hacerlo es creando _interfaces_ y _visualizaciones_.
+Las animaciones tienen gran acogida a nivel mundial y algunas han recibido
+varias nominaciones y premios. De todo este fandom hay un grupo que desea poder
+interactuar y ver la información de las animaciones y sus personajes.
 
 ## 2. Resumen del proyecto
 
