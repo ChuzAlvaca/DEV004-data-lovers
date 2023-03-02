@@ -8,7 +8,8 @@
 * [4. Historias de usuario](#4-Historias-de-usuario)
 * [5. Proceso de diseño de interfaz de usuario](#5-Proceso-de-diseño-de-interfaz-de-usuario)
 * [6. Testeos de usabilidad](#6-Testeos-de-usabilidad)
-* [7. Pruebas unitarias.](##7-Pruebas-unitarias.)
+* [7. Pruebas unitarias.](##7-Pruebas-unitarias)
+* [8. Referencias.](##8-Referencias)
 
 
 
