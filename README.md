@@ -6,10 +6,10 @@
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
 * [3. Resultados de investigacion de usuario](#3-Resultados-de-investigacion-de-usuario)
 * [4. Historias de usuario](#4-Historias-de-usuario)
-* [5. Proceso de diseño de interfaz de usuario(#5-Proceso-de-diseño-de-interfaz-de-usuario)
-* [6. Hacker edition](#6-hacker-edition)
-* [7. Consideraciones técnicas](#7-consideraciones-técnicas)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
+* [5. Proceso de diseño de interfaz de usuario](#5-Proceso-de-diseño-de-interfaz-de-usuario)
+* [6. Testeos de usabilidad](#6-Testeos-de-usabilidad)
+* [7. Pruebas unitarias.](##7-Pruebas-unitarias.)
+
 
 
 ***
@@ -95,7 +95,7 @@ hallazgos.
   5.En nuestra data venían algunas imagenes caídas
   -Las reemplazamos por una imagen genérica, acorde al tema, para que no quedara incongruente con la pagina.
 
-## 8. Pruebas unitarias.
+## 7. Pruebas unitarias.
 *Aplicamos test sobre la funcion filter y sort, la cuales nos dan un 81% de statement 
 ![Captura de Pantalla 2023-03-02 a la(s) 13 18 09](https://user-images.githubusercontent.com/122368809/222487489-56f78ade-a24a-43ca-a590-11d8f8720690.png)
 
