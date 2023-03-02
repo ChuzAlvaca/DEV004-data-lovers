@@ -82,8 +82,6 @@ hallazgos.
 * Este fue el segundo prototipo de alta, dirigido a telefonos, lo hicimos porque nos dimos cuenta que debiamos tenerlo para poder hacer las correcciones al momento de hacer diseño responsive.
 ![prototipo_alta_celular 001](https://user-images.githubusercontent.com/122368809/222309749-f39da327-5f5a-4b11-9c74-6ecbe5db40eb.png)
 
-
-
 #### Testeos de usabilidad 
 *problemas identificados 
   1.Teníamos iconos enformato imagen que eran dificiles de entender.
@@ -97,17 +95,18 @@ hallazgos.
   5.En nuestra data venían algunas imagenes caídas
   -Las reemplazamos por una imagen genérica, acorde al tema, para que no quedara incongruente con la pagina.
 
-
-
-
-### Implementación de la Interfaz de Usuario (HTML/CSS/JS)
-***fotos del codigo y fotos de responsive en cada formato
-
-
 ### Pruebas unitarias
 ***foto del test**** y especificacion de a que le aplicamos test
 
+### Diseño de Interfaz de Usuario
 
+<img width="300" alt="finalcelular1" src="https://user-images.githubusercontent.com/118011555/222472692-8d96883b-1b59-443f-9b22-760a2f638745.png">
+<img width="301" alt="finalCelular2" src="https://user-images.githubusercontent.com/118011555/222472729-d588600c-437b-43b4-8fbc-bd14146c7f4c.png">
+<img width="314" alt="finalCelular3" src="https://user-images.githubusercontent.com/118011555/222472788-418c64f1-e25c-48a8-a8bc-78645cb401d5.png">
+<img width="1430" alt="Finaldesktop1" src="https://user-images.githubusercontent.com/118011555/222472843-bbc98568-4dea-4292-bf68-1e4f5f2662f1.png">
+<img width="1422" alt="finalDesktop2" src="https://user-images.githubusercontent.com/118011555/222472875-e3c22917-b9c4-4881-a828-9c0141a4f47c.png">
+<img width="384" alt="finalTablet1" src="https://user-images.githubusercontent.com/118011555/222472923-d025304d-d52d-456b-b850-365c8f24615a.png">
+<img width="386" alt="finalTablet2" src="https://user-images.githubusercontent.com/118011555/222472937-d66756f1-1301-4bef-bec9-9676dd8acd1c.png">
 
 
 
