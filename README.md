@@ -25,7 +25,6 @@ varias nominaciones y premios. De todo este fandom hay un grupo que desea poder
 interactuar y ver la información de las animaciones y sus personajes.
 
 ## 2. Resumen del proyecto
-
 En este proyecto construimos una _página web_ para visualizar un
 _conjunto (set) de datos_** que se adecúa a nuestra investigación de usuario respecto al Fandom de estudio Ghibli.
 
@@ -34,7 +33,6 @@ filtramos por productor , ordenamos por puntuacion de RT, por fecha de lanzamien
 y calculamos la cantidad de personajes por pelicula.
 
 ## 3. Resultados de investigacion de usuario.
-
 Para entender mejor qué información podrían necesitar nuestras usuarias,
 hicimos una rápida investigación (research) y estos son algunos de los
 hallazgos.
@@ -56,8 +54,6 @@ hallazgos.
 - Adicionalmente a esta información, para nuestras usuarias es importante poder
   ver los tipos de especies que hay en cada animación.
 
-
-
 ## 4. Historias de usuario
 * A partir de la investigacion llegamos a 4 historias de usuario.
  <img width="8491" alt="historias de usuario" src="https://user-images.githubusercontent.com/122368809/222306874-0e86faea-e587-4081-bbe7-fc5939dd9bea.png">
@@ -67,7 +63,6 @@ hallazgos.
 
 <img width="8235" alt="historias de usuario (2)" src="https://user-images.githubusercontent.com/122368809/222311634-8f8fe129-a31c-40eb-b4c5-2325aa278334.png">
     -Aca tambien ya teniamos mas conocimiento de lo que queriamos plantear y lo ordenamos.
-
 
 ## 5. Proceso de diseño de interfaz de usuario
 * Esta fue la primera intención que tuvimos de mostrar de que manera queríamos ir ordenando nuestras ideas, lo hicimos en una hoja con lápiz.
@@ -82,7 +77,16 @@ hallazgos.
 * Este fue el segundo prototipo de alta, dirigido a telefonos, lo hicimos porque nos dimos cuenta que debiamos tenerlo para poder hacer las correcciones al momento de hacer diseño responsive.
 ![prototipo_alta_celular 001](https://user-images.githubusercontent.com/122368809/222309749-f39da327-5f5a-4b11-9c74-6ecbe5db40eb.png)
 
-#### Testeos de usabilidad 
+## 6. Diseño Responsive
+<img width="300" alt="finalcelular1" src="https://user-images.githubusercontent.com/118011555/222472692-8d96883b-1b59-443f-9b22-760a2f638745.png">
+<img width="301" alt="finalCelular2" src="https://user-images.githubusercontent.com/118011555/222472729-d588600c-437b-43b4-8fbc-bd14146c7f4c.png">
+<img width="314" alt="finalCelular3" src="https://user-images.githubusercontent.com/118011555/222472788-418c64f1-e25c-48a8-a8bc-78645cb401d5.png">
+<img width="1430" alt="Finaldesktop1" src="https://user-images.githubusercontent.com/118011555/222472843-bbc98568-4dea-4292-bf68-1e4f5f2662f1.png">
+<img width="1422" alt="finalDesktop2" src="https://user-images.githubusercontent.com/118011555/222472875-e3c22917-b9c4-4881-a828-9c0141a4f47c.png">
+<img width="384" alt="finalTablet1" src="https://user-images.githubusercontent.com/118011555/222472923-d025304d-d52d-456b-b850-365c8f24615a.png">
+<img width="386" alt="finalTablet2" src="https://user-images.githubusercontent.com/118011555/222472937-d66756f1-1301-4bef-bec9-9676dd8acd1c.png">
+
+## 7. Testeos de usabilidad 
 *problemas identificados 
   1.Teníamos iconos enformato imagen que eran dificiles de entender.
   -cambiamos iconos por botones desplegables, de manera que fuera mas intuitivo el uso.
@@ -95,18 +99,11 @@ hallazgos.
   5.En nuestra data venían algunas imagenes caídas
   -Las reemplazamos por una imagen genérica, acorde al tema, para que no quedara incongruente con la pagina.
 
-### Pruebas unitarias
+## 8. Pruebas unitarias
 ***foto del test**** y especificacion de a que le aplicamos test
 
-### Diseño de Interfaz de Usuario
 
-<img width="300" alt="finalcelular1" src="https://user-images.githubusercontent.com/118011555/222472692-8d96883b-1b59-443f-9b22-760a2f638745.png">
-<img width="301" alt="finalCelular2" src="https://user-images.githubusercontent.com/118011555/222472729-d588600c-437b-43b4-8fbc-bd14146c7f4c.png">
-<img width="314" alt="finalCelular3" src="https://user-images.githubusercontent.com/118011555/222472788-418c64f1-e25c-48a8-a8bc-78645cb401d5.png">
-<img width="1430" alt="Finaldesktop1" src="https://user-images.githubusercontent.com/118011555/222472843-bbc98568-4dea-4292-bf68-1e4f5f2662f1.png">
-<img width="1422" alt="finalDesktop2" src="https://user-images.githubusercontent.com/118011555/222472875-e3c22917-b9c4-4881-a828-9c0141a4f47c.png">
-<img width="384" alt="finalTablet1" src="https://user-images.githubusercontent.com/118011555/222472923-d025304d-d52d-456b-b850-365c8f24615a.png">
-<img width="386" alt="finalTablet2" src="https://user-images.githubusercontent.com/118011555/222472937-d66756f1-1301-4bef-bec9-9676dd8acd1c.png">
+
 
 
 
