@@ -83,7 +83,7 @@ hallazgos.
 ![prototipo_alta_celular 001](https://user-images.githubusercontent.com/122368809/222309749-f39da327-5f5a-4b11-9c74-6ecbe5db40eb.png)
 
 ## 6. Testeos de usabilidad.
-# problemas identificados:
+## problemas identificados:
 
   1.Teníamos iconos en formato imagen que eran dificiles de entender.
   -cambiamos iconos por botones desplegables, de manera que fuera mas intuitivo el uso.
