@@ -359,4 +359,11 @@ Cuando ya estés lista para codear, te sugerimos empezar de esta manera:
 
 
 
+<img width="300" alt="finalcelular1" src="https://user-images.githubusercontent.com/118011555/222316926-ba234b47-db0d-4d14-a58d-54ebba25ce65.png">
 
+<img width="301" alt="finalCelular2" src="https://user-images.githubusercontent.com/118011555/222317013-4bc411fb-eedc-4823-9700-a42873a5c41a.png">
+<img width="314" alt="finalCelular3" src="https://user-images.githubusercontent.com/118011555/222317026-853f87b7-bd2e-4746-87dc-0733b6d1c753.png">
+<img width="1430" alt="Finaldesktop1" src="https://user-images.githubusercontent.com/118011555/222317040-38d25ec7-a144-4b94-ad9e-e706cf35604c.png">
+<img width="1422" alt="finalDesktop2" src="https://user-images.githubusercontent.com/118011555/222317056-e70d9336-7521-4e9e-83d5-7b9500e58a63.png">
+<img width="384" alt="finalTablet1" src="https://user-images.githubusercontent.com/118011555/222317076-c5c3bddb-ab10-4b8f-b101-22d622d90ca3.png">
+<img width="386" alt="finalTablet2" src="https://user-images.githubusercontent.com/118011555/222317091-ee70fb06-e0e9-48f0-a5a9-97c1fc2483bc.png">
