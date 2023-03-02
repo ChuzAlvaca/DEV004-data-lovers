@@ -2,19 +2,19 @@
 
 ## Índice
 
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Resultados de investigacion de usuario](#3-Resultados-de-investigacion-de-usuario)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
+* [1. Preámbulo](#1-preámbulo.)
+* [2. Resumen del proyecto](#2-resumen-del-proyecto.)
+* [3. Resultados de investigacion de usuario](#3-Resultados-de-investigacion-de-usuario.)
+* [4. Historias de usuario](#4-Historias-de-usuario.)
+* [5. Proceso de diseño de interfaz de usuario(#5-Proceso-de-diseño-de-interfaz-de-usuario.)
 * [6. Hacker edition](#6-hacker-edition)
 * [7. Consideraciones técnicas](#7-consideraciones-técnicas)
 * [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Checklist](#9-checklist)
+
 
 ***
 
-## 1. Preámbulo Studio Ghibli
+## 1. Preámbulo Studio Ghibli.
 
 Studio Ghibli es un estudio de animación japonés, conocido por sus largometrajes
 animados como **Mi vecino Totoro**, **El viaje de Chihiro** o
@@ -24,7 +24,7 @@ Las animaciones tienen gran acogida a nivel mundial y algunas han recibido
 varias nominaciones y premios. De todo este fandom hay un grupo que desea poder
 interactuar y ver la información de las animaciones y sus personajes.
 
-## 2. Resumen del proyecto
+## 2. Resumen del proyecto.
 
 En este proyecto construimos una _página web_ para visualizar un
 _conjunto (set) de datos_** que se adecúa a nuestra investigación de usuario respecto al Fandom de estudio Ghibli.
@@ -58,7 +58,7 @@ hallazgos.
 
 
 
-## 4. Historias de usuario
+## 4. Historias de usuario.
 * A partir de la investigacion llegamos a 4 historias de usuario.
  <img width="8491" alt="historias de usuario" src="https://user-images.githubusercontent.com/122368809/222306874-0e86faea-e587-4081-bbe7-fc5939dd9bea.png">
 
@@ -69,7 +69,7 @@ hallazgos.
     -Aca tambien ya teniamos mas conocimiento de lo que queriamos plantear y lo ordenamos.
 
 
-## 5. Proceso de diseño de interfaz de usuario
+## 5. Proceso de diseño de interfaz de usuario.
 * Esta fue la primera intención que tuvimos de mostrar de que manera queríamos ir ordenando nuestras ideas, lo hicimos en una hoja con lápiz.
 ![Bosquejo 1 ](https://user-images.githubusercontent.com/122368809/222309698-375c5c69-6a73-444d-bec1-d180bd80834e.png)
 
@@ -82,9 +82,7 @@ hallazgos.
 * Este fue el segundo prototipo de alta, dirigido a telefonos, lo hicimos porque nos dimos cuenta que debiamos tenerlo para poder hacer las correcciones al momento de hacer diseño responsive.
 ![prototipo_alta_celular 001](https://user-images.githubusercontent.com/122368809/222309749-f39da327-5f5a-4b11-9c74-6ecbe5db40eb.png)
 
-
-
-#### Testeos de usabilidad 
+## 6. Testeos de usabilidad.
 *problemas identificados 
   1.Teníamos iconos enformato imagen que eran dificiles de entender.
   -cambiamos iconos por botones desplegables, de manera que fuera mas intuitivo el uso.
@@ -97,14 +95,7 @@ hallazgos.
   5.En nuestra data venían algunas imagenes caídas
   -Las reemplazamos por una imagen genérica, acorde al tema, para que no quedara incongruente con la pagina.
 
-
-
-
-### Implementación de la Interfaz de Usuario (HTML/CSS/JS)
-***fotos del codigo y fotos de responsive en cada formato
-
-
-### Pruebas unitarias
+## 8. Pruebas unitarias.
 *Aplicamos test sobre la funcion filter y sort, la cuales nos dan un 81% de statement 
 ![Captura de Pantalla 2023-03-02 a la(s) 13 18 09](https://user-images.githubusercontent.com/122368809/222487489-56f78ade-a24a-43ca-a590-11d8f8720690.png)
 
