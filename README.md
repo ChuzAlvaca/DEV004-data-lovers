@@ -2,11 +2,11 @@
 
 ## Índice
 
-* [1. Preámbulo](#1-preámbulo.)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto.)
-* [3. Resultados de investigacion de usuario](#3-Resultados-de-investigacion-de-usuario.)
-* [4. Historias de usuario](#4-Historias-de-usuario.)
-* [5. Proceso de diseño de interfaz de usuario(#5-Proceso-de-diseño-de-interfaz-de-usuario.)
+* [1. Preámbulo Studio Ghibli](#1-Preámbulo-Studio-Ghibli)
+* [2. Resumen del proyecto](#2-resumen-del-proyecto)
+* [3. Resultados de investigacion de usuario](#3-Resultados-de-investigacion-de-usuario)
+* [4. Historias de usuario](#4-Historias-de-usuario)
+* [5. Proceso de diseño de interfaz de usuario(#5-Proceso-de-diseño-de-interfaz-de-usuario)
 * [6. Hacker edition](#6-hacker-edition)
 * [7. Consideraciones técnicas](#7-consideraciones-técnicas)
 * [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
@@ -14,7 +14,7 @@
 
 ***
 
-## 1. Preámbulo Studio Ghibli.
+## 1. Preámbulo Studio Ghibli
 
 Studio Ghibli es un estudio de animación japonés, conocido por sus largometrajes
 animados como **Mi vecino Totoro**, **El viaje de Chihiro** o
@@ -24,7 +24,7 @@ Las animaciones tienen gran acogida a nivel mundial y algunas han recibido
 varias nominaciones y premios. De todo este fandom hay un grupo que desea poder
 interactuar y ver la información de las animaciones y sus personajes.
 
-## 2. Resumen del proyecto.
+## 2. Resumen del proyecto
 
 En este proyecto construimos una _página web_ para visualizar un
 _conjunto (set) de datos_** que se adecúa a nuestra investigación de usuario respecto al Fandom de estudio Ghibli.
