@@ -60,47 +60,45 @@ hallazgos.
 
 ## 4. Historias de usuario
 * A partir de la investigacion llegamos a 4 historias de usuario.
-****IMAGEN ****
-* explicar el paso de las historias y sus correciones 
+ <img width="8491" alt="historias de usuario" src="https://user-images.githubusercontent.com/122368809/222306874-0e86faea-e587-4081-bbe7-fc5939dd9bea.png">
+
+* Estas historias las hicimos para definir las 4 funciones que son mencionadas en el Readme del proyecto, las cuales son visualizar, ordenar, filtrar y calcular. Las ideamos pensando en hacerlas en ese orden cronológico,pero cambio en el camino y esto paso por lo siguiente.
+    - Cuando llegamos al momento de hacer a funcio de filtrado, nos dimos cuenta que finalmente no estariamos cumpliendo con el objetivo de aprendizaje por el formato de nuestra data, por lo que ahi decidimos hacer un reordenamiento de las historias dejandolas finalmente como se muestra en la siguiente imagen.
+
+<img width="8235" alt="historias de usuario (2)" src="https://user-images.githubusercontent.com/122368809/222311634-8f8fe129-a31c-40eb-b4c5-2325aa278334.png">
+    -Aca tambien ya teniamos mas conocimiento de lo que queriamos plantear y lo ordenamos.
+
+
 ## 5. Proceso de diseño de interfaz de usuario
-* 
-* *+***imagenes orden cronologico*****
+* Esta fue la primera intención que tuvimos de mostrar de que manera queríamos ir ordenando nuestras ideas, lo hicimos en una hoja con lápiz.
+![Bosquejo 1 ](https://user-images.githubusercontent.com/122368809/222309698-375c5c69-6a73-444d-bec1-d180bd80834e.png)
+
+* Este fue nuestro protototipo de baja, lo hicimos en paint.
+![prototipo de baja](https://user-images.githubusercontent.com/122368809/222309762-07880e92-1443-4c47-a857-383912fcae26.png)
+
+* Este fue el primer prototipo de alta, lo hicimos en key note
+![prototipo_de_alta_propuesta_corregida_sin_paleta_definitiva (7) 001](https://user-images.githubusercontent.com/122368809/222309786-99f72b12-2e0c-4c18-913a-65966798afc8.png)
+
+* Este fue el segundo prototipo de alta, dirigido a telefonos, lo hicimos porque nos dimos cuenta que debiamos tenerlo para poder hacer las correcciones al momento de hacer diseño responsive.
+![prototipo_alta_celular 001](https://user-images.githubusercontent.com/122368809/222309749-f39da327-5f5a-4b11-9c74-6ecbe5db40eb.png)
 
 
-
-
-### Diseño de la Interfaz de Usuario
-
-#### Prototipo de baja fidelidad
-
-Durante tu trabajo deberás haber hecho e iterado bocetos (_sketches_) de tu
-solución usando papel y lápiz. Te recomendamos tomar fotos de todas las
-iteraciones que hagas, que las subas a tu repositorio y las menciones en tu
-`README.md`.
-
-#### Prototipo de alta fidelidad
-
-Lo siguiente es diseñar tu Interfaz de Usuario (UI por sus siglas en inglés -
-_User Interface_). Para eso debes aprender a utilizar alguna herramienta de
-diseño visual. Nosotros te recomendamos [Figma](https://www.figma.com/) que es
-una herramienta que funciona en el navegador y, además, puedes crear una cuenta
-gratis. Sin embargo, eres libre de utilizar otros editores gráficos como
-Illustrator, Photoshop, PowerPoint, Keynote, etc.
-
-El diseño debe representar el _ideal_ de tu solución. Digamos que es lo que
-desearías implementar si tuvieras tiempo ilimitado para trabajar. Además, tu
-diseño debe seguir los fundamentos de _visual design_.
 
 #### Testeos de usabilidad 
-problemas identificados 
-cambiamos botones que no se adecuaban a nustro prototipo
-cambiamos el contraste de la paleta
+*problemas identificados 
+  1.Teníamos iconos enformato imagen que eran dificiles de entender.
+  -cambiamos iconos por botones desplegables, de manera que fuera mas intuitivo el uso.
+  2.Teníamos una paleta con mucha igualdad de colores y hacia que la pagina fuera muy plana.
+  -cambiamos el contraste de la paleta para que fuese acorde al tema
+  3.Teníamos palabras que eran poco explicativas de que hacia el boton de la funcion de ordenar.
+  -cambiamos a palabras que hacian el botón más comprensible
+  4.Teníamos una imagen de fondo trasparente que era muy grande y   plana y difícil de manipular 
+  -cambiamos la imagen del banner, a una que le diera mas color y diversidad a la pagina.
+  5.En nuestra data venían algunas imagenes caídas
+  -Las reemplazamos por una imagen genérica, acorde al tema, para que no quedara incongruente con la pagina.
 
 
-Durante el reto deberás hacer _tests_ de usabilidad con distintos usuarios, y
-en base a los resultados, deberás iterar tus diseños. Cuéntanos
-qué problemas de usabilidad detectaste a través de los _tests_ y cómo los
-mejoraste en tu propuesta final.
+
 
 ### Implementación de la Interfaz de Usuario (HTML/CSS/JS)
 ***fotos del codigo y fotos de responsive en cada formato
@@ -357,5 +355,8 @@ Cuando ya estés lista para codear, te sugerimos empezar de esta manera:
   Aceptación_ y nosotros sí lo haremos. Más detalles en la guía.
 * [Cómo dividir H.U.](https://www.youtube.com/watch?v=Ueq786iZ30I&t=341s)
 * [Guía para Data Lovers](https://docs.google.com/presentation/d/e/2PACX-1vQhx9D36NjpH-Daea-ITPUDUzNL8ZiNAprq_7b5PSUrfutk45tEtaOLz2lmd8f54_5jX1hypDM8f8SM/pub?start=false&loop=false&delayms=60000)
+
+
+
 
 
