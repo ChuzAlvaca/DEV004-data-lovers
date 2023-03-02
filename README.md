@@ -83,7 +83,7 @@ hallazgos.
 ![prototipo_alta_celular 001](https://user-images.githubusercontent.com/122368809/222309749-f39da327-5f5a-4b11-9c74-6ecbe5db40eb.png)
 
 ## 6. Testeos de usabilidad.
-#problemas identificados:
+# problemas identificados:
 
   1.Teníamos iconos en formato imagen que eran dificiles de entender.
   -cambiamos iconos por botones desplegables, de manera que fuera mas intuitivo el uso.
@@ -97,7 +97,7 @@ hallazgos.
   -Fueron reemplazamos por una imagen genérica, acorde al tema, para que no quedara incongruente con la página.
 
 ## 7. Pruebas unitarias.
-*Aplicamos test sobre la funcion filter y sort, la cuales nos dan un 81% de statement.
+*Aplicamos test sobre la funcion filter y sort, la cuales nos dan un 95.45% en statement, 87.5% en branch, 100% en function y 95.23 en lines.
 ![Captura de Pantalla 2023-03-02 a la(s) 13 18 09](https://user-images.githubusercontent.com/122368809/222487489-56f78ade-a24a-43ca-a590-11d8f8720690.png)
 
 
