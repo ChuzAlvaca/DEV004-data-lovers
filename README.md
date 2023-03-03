@@ -102,6 +102,11 @@ hallazgos.
 ![Captura de Pantalla 2023-03-02 a la(s) 13 18 09](https://user-images.githubusercontent.com/122368809/222487489-56f78ade-a24a-43ca-a590-11d8f8720690.png)
 
 
-
+## 8.Recursos
+ *https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ *https://parzibyte.me/
+ *https://getbootstrap.com/docs/5.3/layout/breakpoints/
+ *https://developer.mozilla.org/es/
+ *https://www.youtube.com/watch?v=3C3I1HoGeaU
 
 
